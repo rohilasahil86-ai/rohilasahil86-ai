@@ -52,14 +52,6 @@ customer and business analysis.
 
 - AI Restaurant Assistant
 - Exploring AI automation and business-focused solutions
-
----
-
-## 🌐 Additional Projects
-
-- Vijaysar Ayurveda Website
-- Muskan Mehandi Art Website
-
 ---
 
 ## 📫 Contact
